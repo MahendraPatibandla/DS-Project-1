@@ -1,2 +1,3 @@
 # DS-Project-1
 Movie-Recommendation-System
+"The Movie Recommendation System is a data-driven application designed to assist users in discovering movies aligned with their preferences. Leveraging machine learning techniques, this system analyzes user behavior, historical ratings, movie metadata, and potentially collaborative filtering algorithms to generate personalized movie recommendations. By processing vast amounts of data, it aims to suggest movies that align with users' interests, enhancing their overall movie-watching experience. This project showcases the implementation of various recommendation strategies, offering users tailored suggestions for an enriched movie selection."
